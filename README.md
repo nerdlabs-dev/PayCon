@@ -26,5 +26,5 @@ stable release versions of PayCon.
 
 Feature branches are created when there are major new features being
 worked on by several people.
-# PayCon_Update
+# PayCon
 
