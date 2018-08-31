@@ -1,5 +1,6 @@
 
 PayCon Homepage - http://paycon.crypto-city.com/
+Windows Wallet - https://download.crypto-city.com/con/PayCon-2.2.0.zip
 ===========================
 
 PayCon is a PoS-based cryptocurrency.
